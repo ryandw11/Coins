@@ -1,0 +1,9 @@
+name: Coins
+version: 1.0
+main: me.ryandw11.coins.core.Main
+author: ryandw11
+description: This is a currency of coins plugin!
+commands:
+    coin:
+     description: The main command for the Coins plugin!
+     aliases: [coins, c]
